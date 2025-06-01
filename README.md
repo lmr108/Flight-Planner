@@ -37,4 +37,26 @@ Web interface specifically designed to create flight paths for drones. It includ
   </a>
 </p>
 
+## Deployment
+The interface is provided as a .exe installer and can be used on any Windows device. It is designed for operators to install on their own machines, allowing them to manage updates and launch the interface independently.
+
+
+## Scripts
+> 
+> ```python
+> app_alpha.py (Gestiona las llamadas al resto de scripts)
+> ```
+> >```python
+> > create_route.py
+> >edit.py
+> >home.py
+> >route_stats.py
+> >setting.py
+> >track_route.py
+> >```
+> >
+> > El funcionamiento es demasiado complejo como para explicarlo en un README, hay que ponerse al turrón y entrar a los scripts, de todas formas Julian sabe cuales son las partes de más interés y código util que se puede reciclar.
+> >
+
+
 
