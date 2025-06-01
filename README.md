@@ -26,7 +26,7 @@
 Web interface specifically designed to create flight paths for drones. It includes other features, but that is its main purpose. Routes can be created anywhere in the world and, once generated, any of their parameters can be edited.
 
 <p>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_1" target="_blank">
+  <a href="https://youtu.be/G8P9BBVwuUQ" target="_blank">
     <button>▶ Watch: Creating a Route</button>
   </a>
 </p>
