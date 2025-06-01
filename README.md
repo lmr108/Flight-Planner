@@ -32,7 +32,7 @@ Web interface specifically designed to create flight paths for drones. It includ
 </p>
 
 <p>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank">
+  <a href="https://youtube.com/shorts/7t4SvFF7Y6o?feature=share" target="_blank">
     <button>▶ Watch: Drone Executing the Route</button>
   </a>
 </p>
