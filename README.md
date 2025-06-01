@@ -40,6 +40,9 @@ Web interface specifically designed to create flight paths for drones. It includ
 ## Deployment
 The interface is provided as a .exe installer and can be used on any Windows device. It is designed for operators to install on their own machines, allowing them to manage updates and launch the interface independently.
 
+![image](https://github.com/user-attachments/assets/3b7b7dd3-3aef-47f4-9066-1f0e0c839a23)
+
+![image](https://github.com/user-attachments/assets/fbf3197a-ce54-43cf-8906-f39a57901622)
 
 ## Scripts
 > 
@@ -55,7 +58,6 @@ The interface is provided as a .exe installer and can be used on any Windows dev
 > >track_route.py
 > >```
 > >
-> > El funcionamiento es demasiado complejo como para explicarlo en un README, hay que ponerse al turrón y entrar a los scripts, de todas formas Julian sabe cuales son las partes de más interés y código util que se puede reciclar.
 > >
 
 
